@@ -5,6 +5,6 @@ spectral analysis framework.
 
 The package requires dedalus3 and pyshtools to run. The execution scripts shell_multiple.py and shell_varp.py are designed to be run on MIT supercloud's SLURM scheduler jobarray.
 
-This code has been developed for the paper Dynamics, scaling behavior, and control of nuclear wrinkling by Jonathan A. Jackson, Nicolas Romeo, Alexander Mietke, Keaton J. Burns, Jan F. Totz, Adam C. Martin, Jörn Dunkel, Jasmin Imran Alsous.
+This code has been developed for the paper ['Scaling behaviour and control of nuclear wrinkling' by Jonathan A. Jackson, Nicolas Romeo, Alexander Mietke, Keaton J. Burns, Jan F. Totz, Adam C. Martin, Jörn Dunkel, Jasmin Imran Alsous. Nature Physics (2023)](https://doi.org/10.1038/s41567-023-02216-y) 
 
 If you find it useful for your research, please cite the above paper.
